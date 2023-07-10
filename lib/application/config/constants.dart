@@ -2,6 +2,9 @@ String APP_NAME = "Employee Check IN & OUT";
 String APP_ACRONYM = "TAS";
 String APP_VERSION = "v1.0.0";
 
+// String APP_SERVER = "Production";
+// String API_URL = 'https://myhub.atp.ph/checkInOut/api/employee';
+
 String APP_SERVER    = "Development";
 String API_URL = 'http://10.13.188.162/checkInOut/api/employee';
 
